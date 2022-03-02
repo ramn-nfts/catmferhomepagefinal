@@ -1,0 +1,112 @@
+@font-face {
+  font-family: 'Overpass';
+  font-style: italic;
+  font-weight: 100;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/overpass/v7/qFdU35WCmI96Ajtm81GgSdXCNs-VMF0vNLADe5qP.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Overpass';
+  font-style: italic;
+  font-weight: 200;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/overpass/v7/qFdU35WCmI96Ajtm81GgSdXCNs-VMF0vNLCDepqP.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Overpass';
+  font-style: italic;
+  font-weight: 300;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/overpass/v7/qFdU35WCmI96Ajtm81GgSdXCNs-VMF0vNLBdepqP.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Overpass';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/overpass/v7/qFdU35WCmI96Ajtm81GgSdXCNs-VMF0vNLADepqP.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Overpass';
+  font-style: italic;
+  font-weight: 600;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/overpass/v7/qFdU35WCmI96Ajtm81GgSdXCNs-VMF0vNLDdfZqP.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Overpass';
+  font-style: italic;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/overpass/v7/qFdU35WCmI96Ajtm81GgSdXCNs-VMF0vNLDkfZqP.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Overpass';
+  font-style: italic;
+  font-weight: 800;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/overpass/v7/qFdU35WCmI96Ajtm81GgSdXCNs-VMF0vNLCDfZqP.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Overpass';
+  font-style: italic;
+  font-weight: 900;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/overpass/v7/qFdU35WCmI96Ajtm81GgSdXCNs-VMF0vNLCqfZqP.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Overpass';
+  font-style: normal;
+  font-weight: 100;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/overpass/v7/qFda35WCmI96Ajtm83upeyoaX6QPnlo6_PLrOQ.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Overpass';
+  font-style: normal;
+  font-weight: 200;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/overpass/v7/qFda35WCmI96Ajtm83upeyoaX6QPnlo6fPPrOQ.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Overpass';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/overpass/v7/qFda35WCmI96Ajtm83upeyoaX6QPnlo6ovPrOQ.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Overpass';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/overpass/v7/qFda35WCmI96Ajtm83upeyoaX6QPnlo6_PPrOQ.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Overpass';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/overpass/v7/qFda35WCmI96Ajtm83upeyoaX6QPnlo6IvTrOQ.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Overpass';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/overpass/v7/qFda35WCmI96Ajtm83upeyoaX6QPnlo6G_TrOQ.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Overpass';
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/overpass/v7/qFda35WCmI96Ajtm83upeyoaX6QPnlo6fPTrOQ.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Overpass';
+  font-style: normal;
+  font-weight: 900;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/overpass/v7/qFda35WCmI96Ajtm83upeyoaX6QPnlo6VfTrOQ.ttf) format('truetype');
+}
